@@ -276,12 +276,12 @@
 })()
 
 
-let docTitle = document.title
+// let docTitle = document.title
 
-window.addEventListener("blur", () => {
-  document.title = "Come back soon 😃"
-})
+// window.addEventListener("blur", () => {
+//   document.title = "Come back soon 😃"
+// })
 
-window.addEventListener("focus", () => {
-  document.title = docTitle
-})
+// window.addEventListener("focus", () => {
+//   document.title = docTitle
+// })
